@@ -5,7 +5,8 @@ public class Main {
     public static void main(String[] args) {
 
         //todo declare variables a,b,c,discriminate, axisOfSymmetry,parabolaFacing,x, y
-
+        double a,b,c,discriminate,axisOfSymmetry,x,y;
+        String parabolaFacing;
         //todo initialize manually
 
         //todo do calculations
