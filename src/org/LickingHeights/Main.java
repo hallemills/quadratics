@@ -6,9 +6,11 @@ public class Main {
 
         //todo declare variables a,b,c,discriminate, axisOfSymmetry,parabolaFacing,x, y
         double a,b,c,discriminate,axisOfSymmetry,x,y;
-        String parabolaFacing; 
+        String parabolaFacing;
         //todo initialize manually
-
+        a=5;
+        b=3;
+        c=1;
         //todo do calculations
 
         //todo print results
